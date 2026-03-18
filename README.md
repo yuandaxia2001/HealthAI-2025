@@ -140,7 +140,7 @@ system_prompt ='''你是一名资深全科医生，请严格按以下要求分�
   }
 ```
 
-然后调用llama factory进行微调，训练3个epoch，参数基本都使用默认的，能不改的就没改。
+然后调用llama factory进行微调，训练3个epoch。
 
 结果示例：
 ```json
